@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /*.html$
+Disallow: /theme/
+
+Sitemap: https://www.awhile.icu/sitemap.xml

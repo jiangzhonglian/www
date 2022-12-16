@@ -1,0 +1,88 @@
+[input]
+base_directory = "output"
+html_selector = "main"
+
+[[input.files]]
+path = "book/巴菲特之道.html"
+url = "/book/巴菲特之道.html"
+title = "巴菲特之道 笔记"
+
+[[input.files]]
+path = "finance/yanglao.html"
+url = "/finance/yanglao.html"
+title = "个人养老金如何减税"
+
+[[input.files]]
+path = "book/富爸爸穷爸爸.html"
+url = "/book/富爸爸穷爸爸.html"
+title = "富爸爸穷爸爸 笔记"
+
+[[input.files]]
+path = "finance/allocation.html"
+url = "/finance/allocation.html"
+title = "资产配置"
+
+[[input.files]]
+path = "finance/investing.html"
+url = "/finance/investing.html"
+title = "最适合普通人的投资方式是什么"
+
+[[input.files]]
+path = "finance/trading.html"
+url = "/finance/trading.html"
+title = "我的股票交易原则（价值投资）"
+
+[[input.files]]
+path = "about.html"
+url = "/about.html"
+title = "草里有只羊"
+
+[[input.files]]
+path = "career/education.html"
+url = "/career/education.html"
+title = "人工智能学历真的重要吗"
+
+[[input.files]]
+path = "career/map_analysis.html"
+url = "/career/map_analysis.html"
+title = "数据分析的学习路线"
+
+[[input.files]]
+path = "career/map_bottleneck.html"
+url = "/career/map_bottleneck.html"
+title = "我的职业瓶颈"
+
+[[input.files]]
+path = "career/map_project.html"
+url = "/career/map_project.html"
+title = "项目集合 - 大数据或算法项目实战"
+
+[[input.files]]
+path = "career/map_promotion.html"
+url = "/career/map_promotion.html"
+title = "职业晋升"
+
+[[input.files]]
+path = "career/map_resume.html"
+url = "/career/map_resume.html"
+title = "简历如何写"
+
+[[input.files]]
+path = "doc.html"
+url = "/doc.html"
+title = "文档集合"
+
+[[input.files]]
+path = "vip.html"
+url = "/vip.html"
+title = "会员活动 1V1"
+
+[[input.files]]
+path = "welfare.html"
+url = "/welfare.html"
+title = "券商福利"
+
+[[input.files]]
+path = "welfare/rate.html"
+url = "/welfare/rate.html"
+title = "券商APP or 同花顺 如何查询交易费率"
