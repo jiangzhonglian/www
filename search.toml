@@ -3,6 +3,16 @@ base_directory = "output"
 html_selector = "main"
 
 [[input.files]]
+path = "index.html"
+url = "/"
+title = "欢迎来到大肥羊学校！"
+
+[[input.files]]
+path = "review/trading_1.html"
+url = "/review/trading_1.html"
+title = "【羊村】帽友的实盘分析 1"
+
+[[input.files]]
 path = "book/巴菲特之道.html"
 url = "/book/巴菲特之道.html"
 title = "巴菲特之道 笔记"

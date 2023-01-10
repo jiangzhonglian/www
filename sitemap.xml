@@ -4,448 +4,483 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2022-12-16T22:51:18-00:00</lastmod>
+<loc>https://www.awhile.icu/</loc>
+<lastmod>2023-01-10T10:59:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/book/巴菲特之道.html</loc>
+<loc>https://www.awhile.icu/</loc>
+<lastmod>2022-12-18T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.awhile.icu/review/trading_1.html</loc>
+<lastmod>2022-12-20T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.awhile.icu/book/巴菲特之道.html</loc>
 <lastmod>2022-12-11T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/finance/yanglao.html</loc>
+<loc>https://www.awhile.icu/finance/yanglao.html</loc>
 <lastmod>2022-11-26T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/book/富爸爸穷爸爸.html</loc>
+<loc>https://www.awhile.icu/book/富爸爸穷爸爸.html</loc>
 <lastmod>2022-11-07T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/finance/allocation.html</loc>
+<loc>https://www.awhile.icu/finance/allocation.html</loc>
 <lastmod>2022-08-30T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/finance/investing.html</loc>
+<loc>https://www.awhile.icu/finance/investing.html</loc>
 <lastmod>2020-06-09T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/finance/trading.html</loc>
+<loc>https://www.awhile.icu/finance/trading.html</loc>
 <lastmod>2020-06-02T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/about.html</loc>
+<loc>https://www.awhile.icu/about.html</loc>
 <lastmod>2020-01-01T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/career/education.html</loc>
+<loc>https://www.awhile.icu/career/education.html</loc>
 <lastmod>2020-01-01T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/career/map_analysis.html</loc>
+<loc>https://www.awhile.icu/career/map_analysis.html</loc>
 <lastmod>2020-01-01T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/career/map_bottleneck.html</loc>
+<loc>https://www.awhile.icu/career/map_bottleneck.html</loc>
 <lastmod>2020-01-01T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/career/map_project.html</loc>
+<loc>https://www.awhile.icu/career/map_project.html</loc>
 <lastmod>2020-01-01T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/career/map_promotion.html</loc>
+<loc>https://www.awhile.icu/career/map_promotion.html</loc>
 <lastmod>2020-01-01T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/career/map_resume.html</loc>
+<loc>https://www.awhile.icu/career/map_resume.html</loc>
 <lastmod>2020-01-01T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/doc.html</loc>
+<loc>https://www.awhile.icu/doc.html</loc>
 <lastmod>2020-01-01T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/vip.html</loc>
+<loc>https://www.awhile.icu/vip.html</loc>
 <lastmod>2020-01-01T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/welfare.html</loc>
+<loc>https://www.awhile.icu/welfare.html</loc>
 <lastmod>2020-01-01T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/welfare/rate.html</loc>
+<loc>https://www.awhile.icu/welfare/rate.html</loc>
 <lastmod>2020-01-01T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/cai-fu-guan-li.html</loc>
+<loc>https://www.awhile.icu/category/cai-fu-guan-li.html</loc>
 <lastmod>2022-11-26T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/cai-shang-shu-ji.html</loc>
+<loc>https://www.awhile.icu/category/cai-shang-shu-ji.html</loc>
 <lastmod>2022-12-11T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/hui-yuan-fu-li.html</loc>
+<loc>https://www.awhile.icu/category/hui-yuan-fu-li.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/yang-cun.html</loc>
+<loc>https://www.awhile.icu/category/shi-pan-fen-xi.html</loc>
+<lastmod>2022-12-20T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.awhile.icu/category/yang-cun.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/zhi-ye-gui-hua.html</loc>
+<loc>https://www.awhile.icu/category/zhi-ye-gui-hua.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/zi-yuan-he-ji.html</loc>
+<loc>https://www.awhile.icu/category/zi-yuan-he-ji.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/cai-shang.html</loc>
+<loc>https://www.awhile.icu/tag/zi-chan-jian-shi.html</loc>
+<lastmod>2022-12-20T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.awhile.icu/tag/shi-pan-fen-xi.html</loc>
+<lastmod>2022-12-20T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.awhile.icu/tag/cai-shang.html</loc>
 <lastmod>2022-12-11T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/shu-ji.html</loc>
+<loc>https://www.awhile.icu/tag/shu-ji.html</loc>
 <lastmod>2022-12-11T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/ba-fei-te-zhi-dao.html</loc>
+<loc>https://www.awhile.icu/tag/ba-fei-te-zhi-dao.html</loc>
 <lastmod>2022-12-11T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/cai-fu-guan-li.html</loc>
+<loc>https://www.awhile.icu/tag/cai-fu-guan-li.html</loc>
 <lastmod>2022-11-26T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/ge-ren-yang-lao-jin.html</loc>
+<loc>https://www.awhile.icu/tag/ge-ren-yang-lao-jin.html</loc>
 <lastmod>2022-11-26T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/jian-shui.html</loc>
+<loc>https://www.awhile.icu/tag/jian-shui.html</loc>
 <lastmod>2022-11-26T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/fu-ba-ba-qiong-ba-ba.html</loc>
+<loc>https://www.awhile.icu/tag/fu-ba-ba-qiong-ba-ba.html</loc>
 <lastmod>2022-11-07T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/zi-chan-pei-zhi.html</loc>
+<loc>https://www.awhile.icu/tag/zi-chan-pei-zhi.html</loc>
 <lastmod>2022-08-30T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/tou-zi-zu-he.html</loc>
+<loc>https://www.awhile.icu/tag/tou-zi-zu-he.html</loc>
 <lastmod>2022-08-30T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/ce-lue.html</loc>
+<loc>https://www.awhile.icu/tag/ce-lue.html</loc>
 <lastmod>2022-08-30T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/di-feng-xian.html</loc>
+<loc>https://www.awhile.icu/tag/di-feng-xian.html</loc>
 <lastmod>2022-08-30T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/r2.html</loc>
+<loc>https://www.awhile.icu/tag/r2.html</loc>
 <lastmod>2022-08-30T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/zhai-quan.html</loc>
+<loc>https://www.awhile.icu/tag/zhai-quan.html</loc>
 <lastmod>2022-08-30T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/gu-shou.html</loc>
+<loc>https://www.awhile.icu/tag/gu-shou.html</loc>
 <lastmod>2022-08-30T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/shi-pan-zong-jie.html</loc>
+<loc>https://www.awhile.icu/tag/shi-pan-zong-jie.html</loc>
 <lastmod>2020-06-09T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/jie-zhi-tou-zi.html</loc>
+<loc>https://www.awhile.icu/tag/jie-zhi-tou-zi.html</loc>
 <lastmod>2020-06-02T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/jiao-yi-yuan-ze.html</loc>
+<loc>https://www.awhile.icu/tag/jiao-yi-yuan-ze.html</loc>
 <lastmod>2020-06-02T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/yang-cun.html</loc>
+<loc>https://www.awhile.icu/tag/yang-cun.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/cao-li-you-zhi-yang.html</loc>
+<loc>https://www.awhile.icu/tag/cao-li-you-zhi-yang.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/zhi-ye-gui-hua.html</loc>
+<loc>https://www.awhile.icu/tag/zhi-ye-gui-hua.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/xue-li-zhong-yao-xing.html</loc>
+<loc>https://www.awhile.icu/tag/xue-li-zhong-yao-xing.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/xiang-mu-shi-zhan.html</loc>
+<loc>https://www.awhile.icu/tag/xiang-mu-shi-zhan.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/xue-xi-lu-xian.html</loc>
+<loc>https://www.awhile.icu/tag/xue-xi-lu-xian.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/shu-ju-fen-xi.html</loc>
+<loc>https://www.awhile.icu/tag/shu-ju-fen-xi.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/zhi-ye-ping-jing.html</loc>
+<loc>https://www.awhile.icu/tag/zhi-ye-ping-jing.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/da-shu-ju-xiang-mu.html</loc>
+<loc>https://www.awhile.icu/tag/da-shu-ju-xiang-mu.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/suan-fa-xiang-mu.html</loc>
+<loc>https://www.awhile.icu/tag/suan-fa-xiang-mu.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/zhi-ye-jin-sheng.html</loc>
+<loc>https://www.awhile.icu/tag/zhi-ye-jin-sheng.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/guan-li.html</loc>
+<loc>https://www.awhile.icu/tag/guan-li.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/jian-li-ru-he-xie.html</loc>
+<loc>https://www.awhile.icu/tag/jian-li-ru-he-xie.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/zi-yuan-he-ji.html</loc>
+<loc>https://www.awhile.icu/tag/zi-yuan-he-ji.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/wen-dang-ji-he.html</loc>
+<loc>https://www.awhile.icu/tag/wen-dang-ji-he.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/hui-yuan-fu-li.html</loc>
+<loc>https://www.awhile.icu/tag/hui-yuan-fu-li.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/vip.html</loc>
+<loc>https://www.awhile.icu/tag/vip.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/quan-shang-fu-li.html</loc>
+<loc>https://www.awhile.icu/tag/quan-shang-fu-li.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/cha-xun-fei-lu.html</loc>
+<loc>https://www.awhile.icu/tag/cha-xun-fei-lu.html</loc>
 <lastmod>2020-01-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>//about.html</loc>
-<lastmod>2022-11-07T00:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>//about.html</loc>
+<loc>https://www.awhile.icu//about.html</loc>
 <lastmod>2022-12-11T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>//about.html</loc>
+<loc>https://www.awhile.icu//about.html</loc>
 <lastmod>2022-12-11T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>//about.html</loc>
+<loc>https://www.awhile.icu//about.html</loc>
+<lastmod>2022-12-20T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.awhile.icu//about.html</loc>
 <lastmod>2022-12-11T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
